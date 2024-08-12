@@ -10,7 +10,7 @@ import {
   Works,
   StarsCanvas,
 } from "./components";
-import Info from "./components/Extra_info/info";
+import Info from "./components/Extra_info/Info";
 import { useEffect } from "react";
 import { config } from "./constants/config";
 
