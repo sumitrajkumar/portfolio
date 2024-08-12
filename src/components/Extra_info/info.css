@@ -1,0 +1,33 @@
+.footer {
+    background-color: rgb(5, 8, 22);
+    padding: 20px;
+    text-align: center;
+  }
+
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+  }
+  
+  .footer-icon {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.3s;
+  }
+  
+  .footer-icon:hover {
+    transform: scale(1.5);
+  }
+  
+  @media (max-width: 200px) {
+    .footer-content {
+      flex-direction: column;
+    }
+  
+    .footer-icon {
+      width: 30px;
+      height: 30px;
+    }
+  }
+  
