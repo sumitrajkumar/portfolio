@@ -5,7 +5,7 @@ const Info: React.FC = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <a href="https://www.instagram.com/sumitkumar.dev/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/___sumit__raj___/" target="_blank" rel="noopener noreferrer">
           <img src="/instagram_logo.png" alt="Instagram" className="footer-icon" />
         </a>
         <a href="https://www.linkedin.com/in/sumit-kumar-351323262/" target="_blank" rel="noopener noreferrer">
